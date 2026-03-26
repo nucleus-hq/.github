@@ -32,19 +32,19 @@ nucleus-hq is the home for **nucleus-shell and its ecosystem** — a desktop she
     <th>Description</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/xzepyx/nucleus-shell">nucleus-shell</a></td>
+    <td><a href="https://github.com/nucleus-hq/nucleus-shell">nucleus-shell</a></td>
     <td>Primary shell — modular, customizable, and active.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/xzepyx/nucleus-cli">nucleus-cli</a></td>
+    <td><a href="https://github.com/nucleus-hq/nucleus-cli">nucleus-cli</a></td>
     <td>Command-line interface for Nucleus Shell.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/xzepyx/nucleus-plugins">nucleus-plugins</a></td>
+    <td><a href="https://github.com/nucleus-hq/nucleus-plugins">nucleus-plugins</a></td>
     <td>Plugin system for Nucleus Shell modules and widgets.</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/xzepyx/nucleus-colorschemes">nucleus-colorschemes</a></td>
+    <td><a href="https://github.com/nucleus-hq/nucleus-colorschemes">nucleus-colorschemes</a></td>
     <td>Prebuilt colorschemes for the shell.</td>
   </tr>
   <tr>
