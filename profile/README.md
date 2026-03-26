@@ -53,10 +53,6 @@ nucleus-hq is the home for **nucleus-shell and its ecosystem** — a desktop she
   </tr>
 </table>
 
-
-> [!CAUTION]
-> Other repositories claiming to be part of nucleus-hq are **community-made**. Always verify with this organization’s official projects.
-
 ---
 
 <h2 align="center">✦ Contributing ✦</h2>
