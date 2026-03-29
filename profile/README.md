@@ -69,9 +69,9 @@ See individual project `CONTRIBUTING.md` for specifics.
 
 <h2 align="center">✦ Maintainers ✦</h2>
 
-* **xZepyx** — Founder & Maintainer ([zepyxunderscore@gmail.com](mailto:zepyxunderscore@gmail.com))
-* **Tanujairamv** — Material UI & Feature Development
-* **Saturno** — Logic & Module Development
+* [@xZepyx](https://github.com/xZepyx) — Founder & Maintainer
+* [@TanujairamV](https://github.com/TanujairmV) — Material UI and Feature Development
+* [@Saturno](https://github.com/Saturno-0) — Logical and Module Development
 
 <h2 align="center">✦ License ✦</h2>
 
