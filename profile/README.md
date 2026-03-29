@@ -70,7 +70,7 @@ See individual project `CONTRIBUTING.md` for specifics.
 <h2 align="center">✦ Maintainers ✦</h2>
 
 * [@xZepyx](https://github.com/xZepyx) — Founder & Maintainer
-* [@TanujairamV](https://github.com/TanujairmV) — Material UI and Feature Development
+* [@TanujairamV](https://github.com/TanujairamV) — Material UI and Feature Development
 * [@Saturno](https://github.com/Saturno-0) — Logical and Module Development
 
 <h2 align="center">✦ License ✦</h2>
